@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EE2139
 - 👀 I’m interested in learning new stuffs
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Instagram @_praga_._
 
